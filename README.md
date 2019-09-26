@@ -1,0 +1,2 @@
+# Maconia.cc
+Hwid
